@@ -45,9 +45,6 @@ Nothing is sent to online breach APIs.
 ## Privacy & ethics
 See [SECURITY.md](SECURITY.md). Use only synthetic passwords for screenshots (`data/demo_passwords.txt`).
 
-## Screenshots
-Save in `docs/screenshots/`: `01-dashboard-weak.png` (Password123!), `02-dashboard-strong.png` (demo passphrase),
-`03-cli-output.png`, `04-tests-passing.png`, `05-history-aggregate.png`.
 
 ## Roadmap
 Larger wordlists, opt-in k-anonymity breach check, zxcvbn comparison, CI badge, packaging.
